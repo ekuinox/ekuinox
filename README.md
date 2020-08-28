@@ -1,5 +1,7 @@
 # ekuinox
 
+[![ekuinox's github stats](https://github-readme-stats.vercel.app/api?username=ekuinox)](https://github.com/ekuinox/ekuinox)
+
 ekuinox, Japanese noob software engineer
 
 ---
